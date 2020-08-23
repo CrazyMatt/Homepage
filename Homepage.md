@@ -4,7 +4,7 @@
 
 ### Records
 
-[Meal Plan](https://eacct-purdue-sp.transactcampus.com/purdueeaccounts/AccountSummary.aspx) | [Printing Allowance](https://docs.google.com/spreadsheets/d/1xFdXEq2De7o3UxmuPD34p0e5o5Hi2Rs_4_vw_SGWm7U/edit#gid=0)
+[Meal Plan](https://eacct-purdue-sp.transactcampus.com/purdueeaccounts/AccountSummary.aspx) | [Printing Allowance](https://docs.google.com/spreadsheets/d/1xFdXEq2De7o3UxmuPD34p0e5o5Hi2Rs_4_vw_SGWm7U/edit#gid=0) | [Dining Menus](https://dining.purdue.edu/menus/)
 
 ### Other
 
