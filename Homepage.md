@@ -6,6 +6,10 @@
 
 [Meal Plan](https://eacct-purdue-sp.transactcampus.com/purdueeaccounts/AccountSummary.aspx) | [Dining Menus](https://dining.purdue.edu/menus/) | [Printing Allowance](https://docs.google.com/spreadsheets/d/1xFdXEq2De7o3UxmuPD34p0e5o5Hi2Rs_4_vw_SGWm7U/edit#gid=0)
 
+### Services
+
+[Papercut](https://itap.purdue.edu/papercut)
+
 ### Other
 
 [Edit Homepage](https://github.com/CrazyMatt/Homepage/blob/master/Homepage.md)
