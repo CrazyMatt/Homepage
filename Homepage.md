@@ -10,6 +10,9 @@
 
 [Papercut](https://itap.purdue.edu/papercut)
 
+### Spare
+[Reddit](https://www.reddit.com) | [YouTube](https://www.youtube.com)]
+
 ### Other
 
 [Edit Homepage](https://github.com/CrazyMatt/Homepage/blob/master/Homepage.md)
