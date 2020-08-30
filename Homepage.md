@@ -11,7 +11,8 @@
 [Papercut](https://itap.purdue.edu/papercut)
 
 ### Spare
-[Reddit](https://www.reddit.com) | [YouTube](https://www.youtube.com)]
+
+[Reddit](https://www.reddit.com) | [YouTube](https://www.youtube.com)
 
 ### Other
 
