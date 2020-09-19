@@ -12,7 +12,7 @@
 
 ### Spare
 
-[Reddit](https://www.reddit.com) | [YouTube](https://www.youtube.com)
+[Reddit](https://www.reddit.com) ([P](https://www.reddit.com/r/Purdue/)·[X](https://www.reddit.com/r/spacex/)·[XL](https://www.reddit.com/r/SpaceXLounge/)) | [YouTube](https://www.youtube.com)
 
 ### Other
 
