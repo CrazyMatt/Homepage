@@ -12,7 +12,7 @@
 
 ### Spare
 
-[Reddit](https://www.reddit.com) ([p](https://www.reddit.com/r/Purdue/) · [x](https://www.reddit.com/r/spacex/) · [xl](https://www.reddit.com/r/SpaceXLounge/)) | [YouTube](https://www.youtube.com) | [BoilerTV](googlechromes://webplayer.mystream2.com/programguide)
+[Reddit](https://www.reddit.com) ([p](https://www.reddit.com/r/Purdue/) · [x](https://www.reddit.com/r/spacex/) · [xl](https://www.reddit.com/r/SpaceXLounge/)) | [YouTube](https://www.youtube.com) | <a href="googlechromes://webplayer.mystream2.com/programguide">BoilerTV</a>
 
 ### Other
 
